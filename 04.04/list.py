@@ -18,6 +18,7 @@ def main():
     if '일요일' in var:
         print('월요일')
         print('월요일')
+        print('월요일')
     
     
     else:
